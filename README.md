@@ -10,4 +10,8 @@ Reply to Android notifications programmatically
 #### Images
 ##### Client sending the message
 
+![1](client-side.jpeg?raw=true "3")
+
+
 ##### Server (android phone with app)
+![1](server-side.jpeg?raw=true "3")
