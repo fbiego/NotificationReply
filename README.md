@@ -5,7 +5,9 @@ Reply to Android notifications programmatically
 
 ## Implementation on apps
 - [`[auto-reply] bot on Whatsapp`](https://wa.link/hk1e10)
+Replies to specific commands
 - [`Retweet app on Playstore`](https://fbiego.com/retweet/app?id=git)
+Retweets & Likes tweets from Twitter notifications
 
 #### Images
 ##### Client sending the message
